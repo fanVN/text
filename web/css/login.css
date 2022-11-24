@@ -1,0 +1,30 @@
+
+.login-form{
+    width: 30%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-height: 450px;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 4px 4px 4px #1c7430;
+}
+.login-form .card-header{
+    font-size: 20px;
+    background-color: #999ff99;
+    color: #005cbf;
+}
+.logo-login{
+    text-align: center;
+    padding: 20px;    
+}
+.logo-login img{
+    text-align: center;
+    font-size: 100px;
+    color: #007bff;
+}
+.login-form label{
+    font-weight: 500;
+}
+

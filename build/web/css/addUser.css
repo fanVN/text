@@ -1,0 +1,21 @@
+
+.add-user-form{
+    width: 70%;
+}
+.add-user-form .card{
+    box-shadow: 2px 3px 2px #004085;
+}
+.add-user-form .card-header{
+    background-color: #ccff00;
+    color: #0000ff;
+    font-weight: 500;
+    font-size: 20px;
+}
+.add-user-form .card-body{
+    background-color: #ccffcc;
+}
+.add-user-form label{
+    font-weight: 500;
+    color: #0056b3;
+}
+

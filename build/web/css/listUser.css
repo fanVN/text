@@ -1,0 +1,55 @@
+
+.card-list-user .card-header{
+    background-color: #66ff66;
+    padding: 5px 10px;
+    font-size: 30px;
+    color:#0000ff;
+    font-weight: 500;
+}
+.card-list-user .btn-add-user{
+    background-color: #0000ff;
+    color: lime;
+}
+.list-user{
+    padding: 5px 10px;
+} 
+.list-user .list-header{
+    color: #0000ff;
+    background-color:#9fcdff;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -5px;
+    padding: 5px;
+}
+.row{    
+        margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -10px;
+    padding: 5px;
+}
+.row:not(:last-child){
+   padding: 5px;
+   margin: 1px;
+    border-bottom: 1px solid #f59834;
+}
+ .row:hover{
+    background-color: springgreen;
+    cursor: pointer;
+}
+.btn-add-user{
+    background-color: #ff9900;
+    color: #17a2b8;   
+    font-weight: 500;
+}
+.btn-add-user:hover{
+    background-color: #ff6600;
+    color: #66ff66;
+}
+.card-footer{
+    text-align: center;
+    background-color:aqua;
+     font-size: 20px;
+     color:fuchsia;
+}
+    
+    
